@@ -190,6 +190,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>assistência</string>
+		<key>shortcut</key>
+		<string>assistencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>assistência</string>
+		<key>shortcut</key>
+		<string>assitencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>atalhos</string>
 		<key>shortcut</key>
 		<string>atalahos</string>
@@ -397,6 +409,12 @@
 		<string>comentário</string>
 		<key>shortcut</key>
 		<string>comentario</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>commit</string>
+		<key>shortcut</key>
+		<string>commit</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1147,6 +1165,12 @@
 		<string>íntegro</string>
 		<key>shortcut</key>
 		<string>integro</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>inteirar</string>
+		<key>shortcut</key>
+		<string>interar</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
