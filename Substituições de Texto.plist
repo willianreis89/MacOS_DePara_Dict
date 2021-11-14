@@ -2462,5 +2462,12 @@
 		<key>shortcut</key>
 		<string>ta</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>além</string>
+		<key>shortcut</key>
+		<string>alem</string>
+	</dict>
+
 </array>
 </plist>
