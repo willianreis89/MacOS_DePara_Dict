@@ -2438,5 +2438,60 @@
 		<key>shortcut</key>
 		<string>votacoes</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>genérico</string>
+		<key>shortcut</key>
+		<string>generico</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>universitário</string>
+		<key>shortcut</key>
+		<string>universitario</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>agência</string>
+		<key>shortcut</key>
+		<string>agencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>agência</string>
+		<key>shortcut</key>
+		<string>agencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Touché</string>
+		<key>shortcut</key>
+		<string>Touche</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>põem</string>
+		<key>shortcut</key>
+		<string>poem</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>põe</string>
+		<key>shortcut</key>
+		<string>poe</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>tá</string>
+		<key>shortcut</key>
+		<string>ta</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>além</string>
+		<key>shortcut</key>
+		<string>alem</string>
+	</dict>
+
 </array>
 </plist>
