@@ -76,6 +76,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>alçada</string>
+		<key>shortcut</key>
+		<string>alcada</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>alçadas</string>
+		<key>shortcut</key>
+		<string>alcadas</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>além</string>
 		<key>shortcut</key>
 		<string>alem</string>
