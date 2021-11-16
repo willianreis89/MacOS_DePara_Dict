@@ -1024,6 +1024,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Flávio</string>
+		<key>shortcut</key>
+		<string>flavio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>formulário</string>
 		<key>shortcut</key>
 		<string>formulario</string>
