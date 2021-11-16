@@ -370,6 +370,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>cartão</string>
+		<key>shortcut</key>
+		<string>cartao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cartões</string>
+		<key>shortcut</key>
+		<string>cartoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>catálogo</string>
 		<key>shortcut</key>
 		<string>catalago</string>
