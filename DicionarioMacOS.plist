@@ -2588,5 +2588,11 @@
 		<key>shortcut</key>
 		<string>forca</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>memória</string>
+		<key>shortcut</key>
+		<string>memoria</string>
+	</dict>
 </array>
 </plist>
