@@ -2594,5 +2594,17 @@
 		<key>shortcut</key>
 		<string>memoria</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>viável</string>
+		<key>shortcut</key>
+		<string>viavel/string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>posições</string>
+		<key>shortcut</key>
+		<string>posicoes</string>
+	</dict>
 </array>
 </plist>
