@@ -2582,5 +2582,11 @@
 		<key>shortcut</key>
 		<string>votacoes</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>força</string>
+		<key>shortcut</key>
+		<string>forca</string>
+	</dict>
 </array>
 </plist>
