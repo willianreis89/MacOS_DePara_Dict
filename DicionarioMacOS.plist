@@ -2846,5 +2846,11 @@
 		<key>shortcut</key>
 		<string>numero</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>colocar</string>
+		<key>shortcut</key>
+		<string>colcar</string>
+	</dict>
 </array>
 </plist>
