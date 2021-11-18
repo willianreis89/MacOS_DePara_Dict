@@ -2852,5 +2852,11 @@
 		<key>shortcut</key>
 		<string>colcar</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>crachá</string>
+		<key>shortcut</key>
+		<string>cracha</string>
+	</dict>
 </array>
 </plist>
