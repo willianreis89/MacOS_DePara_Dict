@@ -1740,6 +1740,12 @@
 		<key>phrase</key>
 		<string>palavra</string>
 		<key>shortcut</key>
+		<string>plabra</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>palavra</string>
+		<key>shortcut</key>
 		<string>plabara</string>
 	</dict>
 	<dict>
