@@ -2864,5 +2864,17 @@
 		<key>shortcut</key>
 		<string>quesitonamento</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>notificação</string>
+		<key>shortcut</key>
+		<string>notificacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>notificações</string>
+		<key>shortcut</key>
+		<string>notificacoes</string>
+	</dict>
 </array>
 </plist>
