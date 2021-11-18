@@ -346,6 +346,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>calendário</string>
+		<key>shortcut</key>
+		<string>calendario</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>câmbio</string>
 		<key>shortcut</key>
 		<string>cambio</string>
