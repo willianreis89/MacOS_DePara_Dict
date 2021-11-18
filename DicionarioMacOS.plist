@@ -784,6 +784,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>disponível</string>
+		<key>shortcut</key>
+		<string>disponivel</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>distinção</string>
 		<key>shortcut</key>
 		<string>distincao</string>
