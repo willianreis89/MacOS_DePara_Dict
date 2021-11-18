@@ -622,6 +622,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>critério</string>
+		<key>shortcut</key>
+		<string>criterio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>critérios</string>
+		<key>shortcut</key>
+		<string>criterios</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>customização</string>
 		<key>shortcut</key>
 		<string>customizacao</string>
@@ -1093,6 +1105,12 @@
 		<string>frequências</string>
 		<key>shortcut</key>
 		<string>frequencias</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>fumaça</string>
+		<key>shortcut</key>
+		<string>fumaca</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
