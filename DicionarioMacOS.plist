@@ -448,6 +448,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>começou</string>
+		<key>shortcut</key>
+		<string>comecou</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>começar</string>
 		<key>shortcut</key>
 		<string>comecar</string>
@@ -1717,6 +1723,24 @@
 		<string>patrimônio</string>
 		<key>shortcut</key>
 		<string>patrimonio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>palavra</string>
+		<key>shortcut</key>
+		<string>palabra</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>palavra</string>
+		<key>shortcut</key>
+		<string>palabara</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>palavra</string>
+		<key>shortcut</key>
+		<string>plabara</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
