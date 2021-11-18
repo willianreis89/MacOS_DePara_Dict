@@ -2858,5 +2858,11 @@
 		<key>shortcut</key>
 		<string>cracha</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>questionamento</string>
+		<key>shortcut</key>
+		<string>quesitonamento</string>
+	</dict>
 </array>
 </plist>
