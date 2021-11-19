@@ -2900,5 +2900,11 @@
 		<key>shortcut</key>
 		<string>advertencia</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>âmbito</string>
+		<key>shortcut</key>
+		<string>ambito</string>
+	</dict>
 </array>
 </plist>
