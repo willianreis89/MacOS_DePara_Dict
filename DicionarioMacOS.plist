@@ -2876,5 +2876,17 @@
 		<key>shortcut</key>
 		<string>notificacoes</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>reincidência</string>
+		<key>shortcut</key>
+		<string>reincidencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>dúbia</string>
+		<key>shortcut</key>
+		<string>dubia</string>
+	</dict>
 </array>
 </plist>
