@@ -2888,5 +2888,11 @@
 		<key>shortcut</key>
 		<string>dubia</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>área</string>
+		<key>shortcut</key>
+		<string>area</string>
+	</dict>
 </array>
 </plist>
