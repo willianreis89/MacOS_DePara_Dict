@@ -2894,5 +2894,11 @@
 		<key>shortcut</key>
 		<string>area</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>advertência</string>
+		<key>shortcut</key>
+		<string>advertencia</string>
+	</dict>
 </array>
 </plist>
