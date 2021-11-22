@@ -2906,5 +2906,53 @@
 		<key>shortcut</key>
 		<string>ambito</string>
 	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>reincidência</string>
+		<key>shortcut</key>
+		<string>reincidencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>dúbia</string>
+		<key>shortcut</key>
+		<string>dubia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>estendido</string>
+		<key>shortcut</key>
+		<string>extendido</string>
+	</dict>
+	<dict>
+		<key>estendida</key>
+		<string>advertência</string>
+		<key>shortcut</key>
+		<string>extendida</string>
+	</dict>
+	<dict>
+		<key>extensão</key>
+		<string>âmbito</string>
+		<key>shortcut</key>
+		<string>estensão</string>
+	</dict>
+	<dict>
+		<key>extensivo</key>
+		<string>âmbito</string>
+		<key>shortcut</key>
+		<string>estensivo</string>
+	</dict>
+	<dict>
+		<key>extenso</key>
+		<string>âmbito</string>
+		<key>shortcut</key>
+		<string>estenso</string>
+	</dict>
+	<dict>
+		<key>urgência</key>
+		<string>âmbito</string>
+		<key>shortcut</key>
+		<string>urgencia</string>
+	</dict>
 </array>
 </plist>
