@@ -2990,5 +2990,17 @@
 		<key>shortcut</key>
 		<string>cameras</string>
 	</dict>
+	<dict>
+	    <key>phrase</key>
+		<string>indicação</string>
+		<key>shortcut</key>
+		<string>indicacao</string>
+	</dict>
+	<dict>
+	    <key>phrase</key>
+		<string>indicações</string>
+		<key>shortcut</key>
+		<string>indicacoes</string>
+	</dict>
 </array>
 </plist>
