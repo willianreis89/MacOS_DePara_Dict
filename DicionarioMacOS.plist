@@ -3002,5 +3002,17 @@
 		<key>shortcut</key>
 		<string>indicacoes</string>
 	</dict>
+	<dict>
+	    <key>phrase</key>
+		<string>orçamento</string>
+		<key>shortcut</key>
+		<string>orcamento</string>
+	</dict>
+	<dict>
+	    <key>phrase</key>
+		<string>orçamentos</string>
+		<key>shortcut</key>
+		<string>orcamentos</string>
+	</dict>
 </array>
 </plist>
