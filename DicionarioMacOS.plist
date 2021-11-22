@@ -2925,34 +2925,52 @@
 		<string>extendido</string>
 	</dict>
 	<dict>
-		<key>estendida</key>
-		<string>advertência</string>
+	    <key>phrase</key>
+		<string>estendida</string>
 		<key>shortcut</key>
 		<string>extendida</string>
 	</dict>
 	<dict>
-		<key>extensão</key>
-		<string>âmbito</string>
+	    <key>phrase</key>
+		<string>extensão</string>
 		<key>shortcut</key>
 		<string>estensão</string>
 	</dict>
 	<dict>
-		<key>extensivo</key>
-		<string>âmbito</string>
+	    <key>phrase</key>
+		<string>extensivo</string>
 		<key>shortcut</key>
 		<string>estensivo</string>
 	</dict>
 	<dict>
-		<key>extenso</key>
-		<string>âmbito</string>
+	    <key>phrase</key>
+		<string>extenso</string>
 		<key>shortcut</key>
 		<string>estenso</string>
 	</dict>
 	<dict>
-		<key>urgência</key>
-		<string>âmbito</string>
+	    <key>phrase</key>
+		<string>urgência</string>
 		<key>shortcut</key>
 		<string>urgencia</string>
+	</dict>
+	<dict>
+	    <key>phrase</key>
+		<string>interação</string>
+		<key>shortcut</key>
+		<string>interacao</string>
+	</dict>
+	<dict>
+	    <key>phrase</key>
+		<string>influência</string>
+		<key>shortcut</key>
+		<string>influencia</string>
+	</dict>
+	<dict>
+	    <key>phrase</key>
+		<string>recíproca</string>
+		<key>shortcut</key>
+		<string>reciproca</string>
 	</dict>
 </array>
 </plist>
