@@ -3014,5 +3014,11 @@
 		<key>shortcut</key>
 		<string>orcamentos</string>
 	</dict>
+	<dict>
+	    <key>phrase</key>
+		<string>opte</string>
+		<key>shortcut</key>
+		<string>opite</string>
+	</dict>
 </array>
 </plist>
