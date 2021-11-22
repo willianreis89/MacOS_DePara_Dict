@@ -2978,5 +2978,17 @@
 		<key>shortcut</key>
 		<string>impurrar</string>
 	</dict>
+	<dict>
+	    <key>phrase</key>
+		<string>câmera</string>
+		<key>shortcut</key>
+		<string>camera</string>
+	</dict>
+	<dict>
+	    <key>phrase</key>
+		<string>câmeras</string>
+		<key>shortcut</key>
+		<string>cameras</string>
+	</dict>
 </array>
 </plist>
