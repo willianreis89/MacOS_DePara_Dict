@@ -2972,5 +2972,11 @@
 		<key>shortcut</key>
 		<string>reciproca</string>
 	</dict>
+	<dict>
+	    <key>phrase</key>
+		<string>empurrar</string>
+		<key>shortcut</key>
+		<string>impurrar</string>
+	</dict>
 </array>
 </plist>
