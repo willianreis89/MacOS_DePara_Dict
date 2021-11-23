@@ -16,6 +16,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>assertiva</string>
+		<key>shortcut</key>
+		<string>acertiva</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>assertivo</string>
+		<key>shortcut</key>
+		<string>acertivo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>acessíveis</string>
 		<key>shortcut</key>
 		<string>acessiveis</string>
@@ -31,6 +43,12 @@
 		<string>aquisição</string>
 		<key>shortcut</key>
 		<string>acquisição</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>advertência</string>
+		<key>shortcut</key>
+		<string>advertencia</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -124,6 +142,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>âmbito</string>
+		<key>shortcut</key>
+		<string>ambito</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>américa</string>
 		<key>shortcut</key>
 		<string>america</string>
@@ -211,6 +235,12 @@
 		<string>aquisição</string>
 		<key>shortcut</key>
 		<string>aquisicao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>área</string>
+		<key>shortcut</key>
+		<string>area</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -328,6 +358,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>caberá</string>
+		<key>shortcut</key>
+		<string>cabera</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>cabíveis</string>
 		<key>shortcut</key>
 		<string>cabiveis</string>
@@ -355,6 +391,18 @@
 		<string>câmbio</string>
 		<key>shortcut</key>
 		<string>cambio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>câmera</string>
+		<key>shortcut</key>
+		<string>camera</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>câmeras</string>
+		<key>shortcut</key>
+		<string>cameras</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -436,6 +484,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>colocar</string>
+		<key>shortcut</key>
+		<string>colcar</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>combustível</string>
 		<key>shortcut</key>
 		<string>combustivel</string>
@@ -454,12 +508,6 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>começou</string>
-		<key>shortcut</key>
-		<string>comecou</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>começar</string>
 		<key>shortcut</key>
 		<string>comecar</string>
@@ -469,6 +517,12 @@
 		<string>começaram</string>
 		<key>shortcut</key>
 		<string>comecaram</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>começou</string>
+		<key>shortcut</key>
+		<string>comecou</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -499,6 +553,18 @@
 		<string>compreensível</string>
 		<key>shortcut</key>
 		<string>compreensivel</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>comunicação</string>
+		<key>shortcut</key>
+		<string>comunicacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>comunicações</string>
+		<key>shortcut</key>
+		<string>comunicacoes</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -592,6 +658,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>crachá</string>
+		<key>shortcut</key>
+		<string>cracha</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>criança</string>
 		<key>shortcut</key>
 		<string>crianca</string>
@@ -601,6 +673,18 @@
 		<string>crianças</string>
 		<key>shortcut</key>
 		<string>criancas</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>critério</string>
+		<key>shortcut</key>
+		<string>criterio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>critérios</string>
+		<key>shortcut</key>
+		<string>criterios</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -619,18 +703,6 @@
 		<string>curto</string>
 		<key>shortcut</key>
 		<string>curot</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>critério</string>
-		<key>shortcut</key>
-		<string>criterio</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>critérios</string>
-		<key>shortcut</key>
-		<string>criterios</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -715,6 +787,18 @@
 		<string>desgaste</string>
 		<key>shortcut</key>
 		<string>desgate</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>destituição</string>
+		<key>shortcut</key>
+		<string>destituicao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>deverá</string>
+		<key>shortcut</key>
+		<string>devera</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -838,6 +922,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>dúbia</string>
+		<key>shortcut</key>
+		<string>dubia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>dúvida</string>
 		<key>shortcut</key>
 		<string>duvida</string>
@@ -871,6 +961,12 @@
 		<string>eletrônica</string>
 		<key>shortcut</key>
 		<string>eletronica</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>e-mail</string>
+		<key>shortcut</key>
+		<string>email</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -964,9 +1060,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>estávamos</string>
+		<key>shortcut</key>
+		<string>estavamos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>extensão</string>
 		<key>shortcut</key>
 		<string>estensao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>extensivo</string>
+		<key>shortcut</key>
+		<string>estensivo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>extenso</string>
+		<key>shortcut</key>
+		<string>estenso</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1000,6 +1114,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>exercício</string>
+		<key>shortcut</key>
+		<string>exercicio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>expansão</string>
 		<key>shortcut</key>
 		<string>expansao</string>
@@ -1030,6 +1150,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>estender</string>
+		<key>shortcut</key>
+		<string>extender</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>estendida</string>
+		<key>shortcut</key>
+		<string>extendida</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>estendido</string>
 		<key>shortcut</key>
 		<string>extendido</string>
@@ -1039,6 +1171,12 @@
 		<string>extensão</string>
 		<key>shortcut</key>
 		<string>extensao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>extraordinária</string>
+		<key>shortcut</key>
+		<string>extraordinaria</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1087,6 +1225,12 @@
 		<string>Flávio</string>
 		<key>shortcut</key>
 		<string>flavio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>força</string>
+		<key>shortcut</key>
+		<string>forca</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1240,6 +1384,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>empurrar</string>
+		<key>shortcut</key>
+		<string>impurrar</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>inacreditável</string>
 		<key>shortcut</key>
 		<string>inacreditavel</string>
@@ -1252,15 +1402,39 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>incluírem</string>
+		<key>shortcut</key>
+		<string>incluirem</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>incompreensível</string>
 		<key>shortcut</key>
 		<string>incompreensivel</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>indicação</string>
+		<key>shortcut</key>
+		<string>indicacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>indicações</string>
+		<key>shortcut</key>
+		<string>indicacoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>infância</string>
 		<key>shortcut</key>
 		<string>infancia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>influência</string>
+		<key>shortcut</key>
+		<string>influencia</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1306,6 +1480,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>interação</string>
+		<key>shortcut</key>
+		<string>interacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>inteirar</string>
 		<key>shortcut</key>
 		<string>interar</string>
@@ -1333,6 +1513,12 @@
 		<string>irá</string>
 		<key>shortcut</key>
 		<string>ira</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>install</string>
+		<key>shortcut</key>
+		<string>isntall</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1468,6 +1654,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>memória</string>
+		<key>shortcut</key>
+		<string>memoria</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>mês</string>
 		<key>shortcut</key>
 		<string>mes</string>
@@ -1531,6 +1723,18 @@
 		<string>módulos</string>
 		<key>shortcut</key>
 		<string>modulos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>motivação</string>
+		<key>shortcut</key>
+		<string>motivacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>motivações</string>
+		<key>shortcut</key>
+		<string>motivacoes</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1624,6 +1828,24 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>notificação</string>
+		<key>shortcut</key>
+		<string>notificacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>notificações</string>
+		<key>shortcut</key>
+		<string>notificacoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>número</string>
+		<key>shortcut</key>
+		<string>numero</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>observação</string>
 		<key>shortcut</key>
 		<string>observacao</string>
@@ -1690,6 +1912,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>opte</string>
+		<key>shortcut</key>
+		<string>opite</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>opinião</string>
 		<key>shortcut</key>
 		<string>opniao</string>
@@ -1699,6 +1927,24 @@
 		<string>oq</string>
 		<key>shortcut</key>
 		<string>oq</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>orçamento</string>
+		<key>shortcut</key>
+		<string>orcamento</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>orçamentos</string>
+		<key>shortcut</key>
+		<string>orcamentos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ordinária</string>
+		<key>shortcut</key>
+		<string>ordinaria</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1744,15 +1990,9 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>parabéns</string>
+		<string>palavra</string>
 		<key>shortcut</key>
-		<string>parabens</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>patrimônio</string>
-		<key>shortcut</key>
-		<string>patrimonio</string>
+		<string>palabara</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1762,21 +2002,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>palavra</string>
+		<string>parabéns</string>
 		<key>shortcut</key>
-		<string>palabara</string>
+		<string>parabens</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>palavra</string>
+		<string>paragráfo</string>
 		<key>shortcut</key>
-		<string>plabra</string>
+		<string>paragrafo</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>palavra</string>
+		<string>patrimônio</string>
 		<key>shortcut</key>
-		<string>plabara</string>
+		<string>patrimonio</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1822,9 +2062,33 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>permissão</string>
+		<key>shortcut</key>
+		<string>permissao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>permissões</string>
+		<key>shortcut</key>
+		<string>permissoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>pior</string>
 		<key>shortcut</key>
 		<string>piro</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>palavra</string>
+		<key>shortcut</key>
+		<string>plabara</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>palavra</string>
+		<key>shortcut</key>
+		<string>plabra</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1876,6 +2140,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>portão</string>
+		<key>shortcut</key>
+		<string>portao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>português</string>
 		<key>shortcut</key>
 		<string>portugues</string>
@@ -1885,6 +2155,12 @@
 		<string>posição</string>
 		<key>shortcut</key>
 		<string>posicao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>posições</string>
+		<key>shortcut</key>
+		<string>posicoes</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1981,6 +2257,12 @@
 		<string>pré-requisitos</string>
 		<key>shortcut</key>
 		<string>prerequisitos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>prestação</string>
+		<key>shortcut</key>
+		<string>prestacao</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2104,6 +2386,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>questionamento</string>
+		<key>shortcut</key>
+		<string>quesitonamento</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>questionário</string>
 		<key>shortcut</key>
 		<string>quesitonario</string>
@@ -2152,6 +2440,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>recíproca</string>
+		<key>shortcut</key>
+		<string>reciproca</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>referência</string>
 		<key>shortcut</key>
 		<string>referencia</string>
@@ -2167,6 +2461,12 @@
 		<string>reais</string>
 		<key>shortcut</key>
 		<string>reias</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>reincidência</string>
+		<key>shortcut</key>
+		<string>reincidencia</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2215,6 +2515,18 @@
 		<string>responsável</string>
 		<key>shortcut</key>
 		<string>responsavel</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>restrição</string>
+		<key>shortcut</key>
+		<string>restricao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>restrições</string>
+		<key>shortcut</key>
+		<string>restricoes</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2368,15 +2680,15 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>substituição</string>
-		<key>shortcut</key>
-		<string>substituicao</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>subsíndico</string>
 		<key>shortcut</key>
 		<string>subsindico</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>substituição</string>
+		<key>shortcut</key>
+		<string>substituicao</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2437,6 +2749,24 @@
 		<string>tensão</string>
 		<key>shortcut</key>
 		<string>tensao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>terço</string>
+		<key>shortcut</key>
+		<string>terco</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>terços</string>
+		<key>shortcut</key>
+		<string>tercos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>término</string>
+		<key>shortcut</key>
+		<string>termino</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2521,6 +2851,12 @@
 		<string>universitário</string>
 		<key>shortcut</key>
 		<string>universitario</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>urgência</string>
+		<key>shortcut</key>
+		<string>urgencia</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2632,6 +2968,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>viável</string>
+		<key>shortcut</key>
+		<string>viavel</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>vídeo</string>
 		<key>shortcut</key>
 		<string>video</string>
@@ -2671,360 +3013,6 @@
 		<string>votações</string>
 		<key>shortcut</key>
 		<string>votacoes</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>força</string>
-		<key>shortcut</key>
-		<string>forca</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>memória</string>
-		<key>shortcut</key>
-		<string>memoria</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>motivação</string>
-		<key>shortcut</key>
-		<string>motivacao</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>motivações</string>
-		<key>shortcut</key>
-		<string>motivacoes</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>viável</string>
-		<key>shortcut</key>
-		<string>viavel/string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>posições</string>
-		<key>shortcut</key>
-		<string>posicoes</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>comunicação</string>
-		<key>shortcut</key>
-		<string>comunicacao/string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>comunicações</string>
-		<key>shortcut</key>
-		<string>comunicacoes</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>estávamos</string>
-		<key>shortcut</key>
-		<string>estavamos</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>permissões</string>
-		<key>shortcut</key>
-		<string>permissoes</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>permissão</string>
-		<key>shortcut</key>
-		<string>permissao</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>e-mail</string>
-		<key>shortcut</key>
-		<string>email</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>incluírem</string>
-		<key>shortcut</key>
-		<string>incluirem</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ordinária</string>
-		<key>shortcut</key>
-		<string>ordinaria</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>deverá</string>
-		<key>shortcut</key>
-		<string>devera</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>destituição</string>
-		<key>shortcut</key>
-		<string>destituicao</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>término</string>
-		<key>shortcut</key>
-		<string>termino</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>caberá</string>
-		<key>shortcut</key>
-		<string>cabera</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>extraordinária</string>
-		<key>shortcut</key>
-		<string>extraordinaria</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>exercício</string>
-		<key>shortcut</key>
-		<string>exercicio</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>orçamento</string>
-		<key>shortcut</key>
-		<string>orcamento</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>orçamentos</string>
-		<key>shortcut</key>
-		<string>orcamentos</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>prestação</string>
-		<key>shortcut</key>
-		<string>prestacao</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>paragráfo</string>
-		<key>shortcut</key>
-		<string>paragrafo</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>restrição</string>
-		<key>shortcut</key>
-		<string>restricao</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>restrições</string>
-		<key>shortcut</key>
-		<string>restricoes</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>terço</string>
-		<key>shortcut</key>
-		<string>terco</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>terços</string>
-		<key>shortcut</key>
-		<string>tercos</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>número</string>
-		<key>shortcut</key>
-		<string>numero</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>colocar</string>
-		<key>shortcut</key>
-		<string>colcar</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>crachá</string>
-		<key>shortcut</key>
-		<string>cracha</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>questionamento</string>
-		<key>shortcut</key>
-		<string>quesitonamento</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>notificação</string>
-		<key>shortcut</key>
-		<string>notificacao</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>notificações</string>
-		<key>shortcut</key>
-		<string>notificacoes</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>reincidência</string>
-		<key>shortcut</key>
-		<string>reincidencia</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>dúbia</string>
-		<key>shortcut</key>
-		<string>dubia</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>área</string>
-		<key>shortcut</key>
-		<string>area</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>advertência</string>
-		<key>shortcut</key>
-		<string>advertencia</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>âmbito</string>
-		<key>shortcut</key>
-		<string>ambito</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>reincidência</string>
-		<key>shortcut</key>
-		<string>reincidencia</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>dúbia</string>
-		<key>shortcut</key>
-		<string>dubia</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>estendido</string>
-		<key>shortcut</key>
-		<string>extendido</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>estendida</string>
-		<key>shortcut</key>
-		<string>extendida</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>extensão</string>
-		<key>shortcut</key>
-		<string>estensão</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>extensivo</string>
-		<key>shortcut</key>
-		<string>estensivo</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>extenso</string>
-		<key>shortcut</key>
-		<string>estenso</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>urgência</string>
-		<key>shortcut</key>
-		<string>urgencia</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>interação</string>
-		<key>shortcut</key>
-		<string>interacao</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>influência</string>
-		<key>shortcut</key>
-		<string>influencia</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>recíproca</string>
-		<key>shortcut</key>
-		<string>reciproca</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>empurrar</string>
-		<key>shortcut</key>
-		<string>impurrar</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>câmera</string>
-		<key>shortcut</key>
-		<string>camera</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>câmeras</string>
-		<key>shortcut</key>
-		<string>cameras</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>indicação</string>
-		<key>shortcut</key>
-		<string>indicacao</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>indicações</string>
-		<key>shortcut</key>
-		<string>indicacoes</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>orçamento</string>
-		<key>shortcut</key>
-		<string>orcamento</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>orçamentos</string>
-		<key>shortcut</key>
-		<string>orcamentos</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>opte</string>
-		<key>shortcut</key>
-		<string>opite</string>
-	</dict>
-	<dict>
-	    <key>phrase</key>
-		<string>install</string>
-		<key>shortcut</key>
-		<string>isntall</string>
 	</dict>
 </array>
 </plist>
