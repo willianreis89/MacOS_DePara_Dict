@@ -3020,5 +3020,11 @@
 		<key>shortcut</key>
 		<string>opite</string>
 	</dict>
+	<dict>
+	    <key>phrase</key>
+		<string>install</string>
+		<key>shortcut</key>
+		<string>isntall</string>
+	</dict>
 </array>
 </plist>
