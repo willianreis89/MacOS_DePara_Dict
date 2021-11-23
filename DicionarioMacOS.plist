@@ -1738,6 +1738,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>móveis</string>
+		<key>shortcut</key>
+		<string>moveis</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>mto</string>
 		<key>shortcut</key>
 		<string>mto</string>
