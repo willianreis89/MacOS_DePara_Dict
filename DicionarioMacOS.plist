@@ -2500,6 +2500,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>resolução</string>
+		<key>shortcut</key>
+		<string>resolucao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>respeitável</string>
 		<key>shortcut</key>
 		<string>respeitavel</string>
