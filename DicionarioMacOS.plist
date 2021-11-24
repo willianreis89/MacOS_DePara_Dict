@@ -1642,6 +1642,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>maiúscula</string>
+		<key>shortcut</key>
+		<string>maiuscula</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>maiúsculas</string>
+		<key>shortcut</key>
+		<string>maiusculas</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>manhã</string>
 		<key>shortcut</key>
 		<string>manha</string>
