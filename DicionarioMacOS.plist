@@ -1932,18 +1932,6 @@
 		<key>phrase</key>
 		<string>On-Premises</string>
 		<key>shortcut</key>
-		<string>on-primeses</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>On-Primeses</string>
-		<key>shortcut</key>
-		<string>on-primeses</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>On-Premises</string>
-		<key>shortcut</key>
 		<string>onpremises</string>
 	</dict>
 	<dict>
