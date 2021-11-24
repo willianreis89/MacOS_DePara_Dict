@@ -928,6 +928,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>disseminação</string>
+		<key>shortcut</key>
+		<string>disseminacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>disseminação</string>
+		<key>shortcut</key>
+		<string>dissiminacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>distinção</string>
 		<key>shortcut</key>
 		<string>distincao</string>
@@ -2065,6 +2077,12 @@
 		<string>painéis</string>
 		<key>shortcut</key>
 		<string>paineis</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>países</string>
+		<key>shortcut</key>
+		<string>paises</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
