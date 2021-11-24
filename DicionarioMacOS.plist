@@ -2212,6 +2212,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>político</string>
+		<key>shortcut</key>
+		<string>politico</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>porém</string>
 		<key>shortcut</key>
 		<string>porem</string>
