@@ -2830,6 +2830,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>suicídio</string>
+		<key>shortcut</key>
+		<string>suicidio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>tá</string>
 		<key>shortcut</key>
 		<string>ta</string>
