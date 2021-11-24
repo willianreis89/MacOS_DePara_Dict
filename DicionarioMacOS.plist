@@ -310,6 +310,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>atualizado</string>
+		<key>shortcut</key>
+		<string>autoalizado</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>atualizado</string>
+		<key>shortcut</key>
+		<string>autolizado</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>avaliado</string>
 		<key>shortcut</key>
 		<string>avalido</string>
