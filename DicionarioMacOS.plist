@@ -1414,6 +1414,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>impressão</string>
+		<key>shortcut</key>
+		<string>impressao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>empurrar</string>
 		<key>shortcut</key>
 		<string>impurrar</string>
@@ -1927,6 +1933,12 @@
 		<string>On-Premises</string>
 		<key>shortcut</key>
 		<string>on-premises</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>On-Premises</string>
+		<key>shortcut</key>
+		<string>on-primeses</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2746,9 +2758,9 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Soluções</string>
+		<string>soluções</string>
 		<key>shortcut</key>
-		<string>Solucoes</string>
+		<string>solucoes</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2872,9 +2884,9 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Touché</string>
+		<string>touché</string>
 		<key>shortcut</key>
-		<string>Touche</string>
+		<string>touche</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
