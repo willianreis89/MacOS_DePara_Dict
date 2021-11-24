@@ -850,6 +850,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>difamação</string>
+		<key>shortcut</key>
+		<string>difamacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>diferença</string>
 		<key>shortcut</key>
 		<string>diferenca</string>
@@ -1957,6 +1963,12 @@
 		<string>obtenção</string>
 		<key>shortcut</key>
 		<string>obtencao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ocorrência</string>
+		<key>shortcut</key>
+		<string>ocorrencia</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
