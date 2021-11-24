@@ -604,6 +604,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>coincidência</string>
+		<key>shortcut</key>
+		<string>conhecidencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>conheço</string>
 		<key>shortcut</key>
 		<string>conheco</string>
@@ -2680,6 +2686,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>sócio</string>
+		<key>shortcut</key>
+		<string>socio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>sócios</string>
+		<key>shortcut</key>
+		<string>socios</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>sofrência</string>
 		<key>shortcut</key>
 		<string>sofrencia</string>
@@ -2965,6 +2983,12 @@
 		<string>veículos</string>
 		<key>shortcut</key>
 		<string>veiculos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>vêm</string>
+		<key>shortcut</key>
+		<string>vem</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
