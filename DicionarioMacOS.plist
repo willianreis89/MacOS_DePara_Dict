@@ -556,6 +556,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>compatíveis</string>
+		<key>shortcut</key>
+		<string>compativeis</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>compatível</string>
+		<key>shortcut</key>
+		<string>compativel</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>compreensão</string>
 		<key>shortcut</key>
 		<string>compreensao</string>
