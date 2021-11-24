@@ -1774,6 +1774,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>município</string>
+		<key>shortcut</key>
+		<string>municipio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>música</string>
 		<key>shortcut</key>
 		<string>musica</string>
