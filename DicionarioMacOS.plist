@@ -1456,6 +1456,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>informática</string>
+		<key>shortcut</key>
+		<string>informatica</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>início</string>
 		<key>shortcut</key>
 		<string>inicio</string>
