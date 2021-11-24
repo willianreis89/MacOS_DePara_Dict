@@ -604,6 +604,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>conexão</string>
+		<key>shortcut</key>
+		<string>conexao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>configuração</string>
 		<key>shortcut</key>
 		<string>configuracao</string>
@@ -955,6 +961,12 @@
 		<string>dúvidas</string>
 		<key>shortcut</key>
 		<string>duvidas</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Estou a caminho!</string>
+		<key>shortcut</key>
+		<string>eac</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1924,6 +1936,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>On-Primeses</string>
+		<key>shortcut</key>
+		<string>on-primeses</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>On-Premises</string>
 		<key>shortcut</key>
 		<string>onpremises</string>
@@ -2476,6 +2494,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>razão</string>
+		<key>shortcut</key>
+		<string>razao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>recíproca</string>
 		<key>shortcut</key>
 		<string>reciproca</string>
@@ -2734,6 +2758,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Soluções</string>
+		<key>shortcut</key>
+		<string>Solucoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>subsíndico</string>
 		<key>shortcut</key>
 		<string>subsindico</string>
@@ -2851,6 +2881,12 @@
 		<string>tópicos</string>
 		<key>shortcut</key>
 		<string>topicos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Touché</string>
+		<key>shortcut</key>
+		<string>Touche</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
