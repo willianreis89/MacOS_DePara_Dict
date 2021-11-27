@@ -2109,6 +2109,12 @@
 		<string>palabra</string>
 	</dict>
 	<dict>
+		<key>pânico</key>
+		<string>palavra</string>
+		<key>shortcut</key>
+		<string>panico</string>
+	</dict>
+	<dict>
 		<key>phrase</key>
 		<string>parabéns</string>
 		<key>shortcut</key>
