@@ -148,6 +148,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ameaça</string>
+		<key>shortcut</key>
+		<string>ameaca</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ameaças</string>
+		<key>shortcut</key>
+		<string>ameacas</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>américa</string>
 		<key>shortcut</key>
 		<string>america</string>
@@ -1342,6 +1354,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>gavião</string>
+		<key>shortcut</key>
+		<string>gaviao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>genérico</string>
 		<key>shortcut</key>
 		<string>generico</string>
@@ -1549,6 +1567,12 @@
 		<string>íntegro</string>
 		<key>shortcut</key>
 		<string>integro</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>inteligência</string>
+		<key>shortcut</key>
+		<string>inteligencia</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1990,6 +2014,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>On-Primeses</string>
+		<key>shortcut</key>
+		<string>on-primeses</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>On-Premises</string>
 		<key>shortcut</key>
 		<string>onpremises</string>
@@ -2107,12 +2137,6 @@
 		<string>palavra</string>
 		<key>shortcut</key>
 		<string>palabra</string>
-	</dict>
-	<dict>
-		<key>pânico</key>
-		<string>palavra</string>
-		<key>shortcut</key>
-		<string>panico</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2716,6 +2740,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>senão</string>
+		<key>shortcut</key>
+		<string>senao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>sensação</string>
 		<key>shortcut</key>
 		<string>sensacao</string>
@@ -2827,6 +2857,12 @@
 		<string>soluções</string>
 		<key>shortcut</key>
 		<string>solucoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Soluções</string>
+		<key>shortcut</key>
+		<string>Solucoes</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2959,6 +2995,12 @@
 		<string>touché</string>
 		<key>shortcut</key>
 		<string>touche</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Touché</string>
+		<key>shortcut</key>
+		<string>Touche</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
