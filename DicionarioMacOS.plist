@@ -1438,6 +1438,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>hortifrúti</string>
+		<key>shortcut</key>
+		<string>hortifruti</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ícone</string>
 		<key>shortcut</key>
 		<string>icone</string>
@@ -2014,12 +2020,6 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>On-Primeses</string>
-		<key>shortcut</key>
-		<string>on-primeses</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>On-Premises</string>
 		<key>shortcut</key>
 		<string>onpremises</string>
@@ -2062,6 +2062,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>orçamentária</string>
+		<key>shortcut</key>
+		<string>orcamentaria</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>orçamentária</string>
+		<key>shortcut</key>
+		<string>orçamentaria</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>orçamento</string>
 		<key>shortcut</key>
 		<string>orcamento</string>
@@ -2095,6 +2107,12 @@
 		<string>orientação</string>
 		<key>shortcut</key>
 		<string>orientacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>hortifrúti</string>
+		<key>shortcut</key>
+		<string>ortifruti</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2140,6 +2158,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>pânico</string>
+		<key>shortcut</key>
+		<string>panico</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>parabéns</string>
 		<key>shortcut</key>
 		<string>parabens</string>
@@ -2149,6 +2173,12 @@
 		<string>paragráfo</string>
 		<key>shortcut</key>
 		<string>paragrafo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>paranóico</string>
+		<key>shortcut</key>
+		<string>paranoico</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2590,6 +2620,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>reciclável</string>
+		<key>shortcut</key>
+		<string>reciclavel</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>recíproca</string>
 		<key>shortcut</key>
 		<string>reciproca</string>
@@ -2860,12 +2896,6 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Soluções</string>
-		<key>shortcut</key>
-		<string>Solucoes</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>subsíndico</string>
 		<key>shortcut</key>
 		<string>subsindico</string>
@@ -2881,6 +2911,12 @@
 		<string>seu</string>
 		<key>shortcut</key>
 		<string>sue</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>sugestão</string>
+		<key>shortcut</key>
+		<string>sugestao</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2998,9 +3034,9 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Touché</string>
+		<string>touché</string>
 		<key>shortcut</key>
-		<string>Touche</string>
+		<string>touche</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
