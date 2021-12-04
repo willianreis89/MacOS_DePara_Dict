@@ -1642,6 +1642,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>laço</string>
+		<key>shortcut</key>
+		<string>laco</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>laços</string>
+		<key>shortcut</key>
+		<string>lacos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>lâmpada</string>
 		<key>shortcut</key>
 		<string>lampada</string>
@@ -2644,6 +2656,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>régua</string>
+		<key>shortcut</key>
+		<string>regua</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>reais</string>
 		<key>shortcut</key>
 		<string>reias</string>
@@ -3049,6 +3067,18 @@
 		<string>transações</string>
 		<key>shortcut</key>
 		<string>transacoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>transferência</string>
+		<key>shortcut</key>
+		<string>transferencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>transferências</string>
+		<key>shortcut</key>
+		<string>transferencias</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
