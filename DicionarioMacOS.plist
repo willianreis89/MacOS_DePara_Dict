@@ -16,6 +16,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>finalização</string>
+		<key>shortcut</key>
+		<string>finalizacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>assertiva</string>
 		<key>shortcut</key>
 		<string>acertiva</string>
