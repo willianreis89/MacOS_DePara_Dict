@@ -16,12 +16,6 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>finalização</string>
-		<key>shortcut</key>
-		<string>finalizacao</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>assertiva</string>
 		<key>shortcut</key>
 		<string>acertiva</string>
@@ -385,6 +379,12 @@
 		<string>botões</string>
 		<key>shortcut</key>
 		<string>botoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cabeça</string>
+		<key>shortcut</key>
+		<string>cabeca</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1126,6 +1126,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>estagiário</string>
+		<key>shortcut</key>
+		<string>estagiario</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>estão</string>
 		<key>shortcut</key>
 		<string>estao</string>
@@ -1285,6 +1291,12 @@
 		<string>férias</string>
 		<key>shortcut</key>
 		<string>ferias</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>finalização</string>
+		<key>shortcut</key>
+		<string>finalizacao</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3049,12 +3061,6 @@
 		<string>tópicos</string>
 		<key>shortcut</key>
 		<string>topicos</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>touché</string>
-		<key>shortcut</key>
-		<string>touche</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
