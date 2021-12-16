@@ -46,6 +46,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>aderência</string>
+		<key>shortcut</key>
+		<string>aderencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>advertência</string>
 		<key>shortcut</key>
 		<string>advertencia</string>
@@ -262,12 +268,6 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>assembléia</string>
-		<key>shortcut</key>
-		<string>assembleia</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>assistência</string>
 		<key>shortcut</key>
 		<string>assistencia</string>
@@ -337,6 +337,12 @@
 		<string>avaliado</string>
 		<key>shortcut</key>
 		<string>avalido</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>baseei</string>
+		<key>shortcut</key>
+		<string>basiei</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1384,6 +1390,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>gênero</string>
+		<key>shortcut</key>
+		<string>genero</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>gestão</string>
 		<key>shortcut</key>
 		<string>gestao</string>
@@ -1468,12 +1480,6 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>idéia</string>
-		<key>shortcut</key>
-		<string>ideia</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>imperdível</string>
 		<key>shortcut</key>
 		<string>imperdivel</string>
@@ -1507,6 +1513,12 @@
 		<string>inadimplência</string>
 		<key>shortcut</key>
 		<string>inadimplencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>inauguração</string>
+		<key>shortcut</key>
+		<string>inauguracao</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1723,6 +1735,12 @@
 		<string>língua</string>
 		<key>shortcut</key>
 		<string>lingua</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>luminária</string>
+		<key>shortcut</key>
+		<string>luminaria</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1972,6 +1990,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>nível</string>
+		<key>shortcut</key>
+		<string>nivel</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>noção</string>
 		<key>shortcut</key>
 		<string>nocao</string>
@@ -2161,6 +2185,12 @@
 		<string>paciência</string>
 		<key>shortcut</key>
 		<string>paciencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>página</string>
+		<key>shortcut</key>
+		<string>pagina</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2689,6 +2719,18 @@
 		<string>reincidência</string>
 		<key>shortcut</key>
 		<string>reincidencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>relação</string>
+		<key>shortcut</key>
+		<string>relacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>relações</string>
+		<key>shortcut</key>
+		<string>relacoes</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
