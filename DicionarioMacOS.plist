@@ -130,6 +130,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>almoçar</string>
+		<key>shortcut</key>
+		<string>almocar</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>almoço</string>
+		<key>shortcut</key>
+		<string>almoco</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>alteração</string>
 		<key>shortcut</key>
 		<string>alteracao</string>
@@ -169,6 +181,12 @@
 		<string>américa</string>
 		<key>shortcut</key>
 		<string>america</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>amigável</string>
+		<key>shortcut</key>
+		<string>amigavel</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -322,6 +340,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ausência</string>
+		<key>shortcut</key>
+		<string>ausencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>atualizado</string>
 		<key>shortcut</key>
 		<string>autoalizado</string>
@@ -331,6 +355,12 @@
 		<string>atualizado</string>
 		<key>shortcut</key>
 		<string>autolizado</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>autônoma</string>
+		<key>shortcut</key>
+		<string>autonoma</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -847,6 +877,18 @@
 		<string>desgaste</string>
 		<key>shortcut</key>
 		<string>desgate</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>desistência</string>
+		<key>shortcut</key>
+		<string>desistencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>desistências</string>
+		<key>shortcut</key>
+		<string>desistencias</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2224,6 +2266,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>papelão</string>
+		<key>shortcut</key>
+		<string>papelao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>parabéns</string>
 		<key>shortcut</key>
 		<string>parabens</string>
@@ -3055,6 +3103,12 @@
 		<string>tensão</string>
 		<key>shortcut</key>
 		<string>tensao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>terça</string>
+		<key>shortcut</key>
+		<string>terca</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
