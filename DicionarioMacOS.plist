@@ -112,6 +112,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>álcool</string>
+		<key>shortcut</key>
+		<string>alcool</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>além</string>
 		<key>shortcut</key>
 		<string>alem</string>
@@ -337,6 +343,12 @@
 		<string>atualizações</string>
 		<key>shortcut</key>
 		<string>atualizacoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>auditória</string>
+		<key>shortcut</key>
+		<string>auditoria</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1378,6 +1390,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>fotocélula</string>
+		<key>shortcut</key>
+		<string>fotocelula</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>frequência</string>
 		<key>shortcut</key>
 		<string>frequencia</string>
@@ -1411,6 +1429,12 @@
 		<string>funções</string>
 		<key>shortcut</key>
 		<string>funcoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>fusível</string>
+		<key>shortcut</key>
+		<string>fusivel</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1510,6 +1534,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>horrível</string>
+		<key>shortcut</key>
+		<string>horrivel</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>hortifrúti</string>
 		<key>shortcut</key>
 		<string>hortifruti</string>
@@ -1570,9 +1600,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>incompetência</string>
+		<key>shortcut</key>
+		<string>incompetencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>incompreensível</string>
 		<key>shortcut</key>
 		<string>incompreensivel</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>incompetência</string>
+		<key>shortcut</key>
+		<string>incopetencia</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1780,6 +1822,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>lojista</string>
+		<key>shortcut</key>
+		<string>logista</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>luminária</string>
 		<key>shortcut</key>
 		<string>luminaria</string>
@@ -1807,6 +1855,18 @@
 		<string>manhã</string>
 		<key>shortcut</key>
 		<string>manha</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>manutenção</string>
+		<key>shortcut</key>
+		<string>manutencao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>manutenções</string>
+		<key>shortcut</key>
+		<string>manutencoes</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1921,6 +1981,12 @@
 		<string>modificações</string>
 		<key>shortcut</key>
 		<string>modificacoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>módulo</string>
+		<key>shortcut</key>
+		<string>modulo</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2317,6 +2383,18 @@
 		<string>pedágio</string>
 		<key>shortcut</key>
 		<string>pedagio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>pendência</string>
+		<key>shortcut</key>
+		<string>pendencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>pendências</string>
+		<key>shortcut</key>
+		<string>pendencias</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2758,6 +2836,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>réguas</string>
+		<key>shortcut</key>
+		<string>reguas</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>reais</string>
 		<key>shortcut</key>
 		<string>reias</string>
@@ -3019,6 +3103,12 @@
 		<string>soluções</string>
 		<key>shortcut</key>
 		<string>solucoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>somatória</string>
+		<key>shortcut</key>
+		<string>somatoria</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3292,6 +3382,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>varejista</string>
+		<key>shortcut</key>
+		<string>varegista</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>variação</string>
 		<key>shortcut</key>
 		<string>variacao</string>
@@ -3349,6 +3445,18 @@
 		<string>versões</string>
 		<key>shortcut</key>
 		<string>versoes</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>vestígio</string>
+		<key>shortcut</key>
+		<string>vestigio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>vestígios</string>
+		<key>shortcut</key>
+		<string>vestigios</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
