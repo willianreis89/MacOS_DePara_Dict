@@ -136,6 +136,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>almoçam</string>
+		<key>shortcut</key>
+		<string>almocam</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>almoçámos</string>
+		<key>shortcut</key>
+		<string>almocamos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>almoçar</string>
 		<key>shortcut</key>
 		<string>almocar</string>
@@ -1318,6 +1330,24 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>estornado</string>
+		<key>shortcut</key>
+		<string>extornado</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>estornar</string>
+		<key>shortcut</key>
+		<string>extornar</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>estorno</string>
+		<key>shortcut</key>
+		<string>extorno</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>extraordinária</string>
 		<key>shortcut</key>
 		<string>extraordinaria</string>
@@ -1555,6 +1585,36 @@
 		<string>imperdível</string>
 		<key>shortcut</key>
 		<string>imperdivel</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>implantação</string>
+		<key>shortcut</key>
+		<string>implantacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>implantação</string>
+		<key>shortcut</key>
+		<string>implantancao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>implantação</string>
+		<key>shortcut</key>
+		<string>implatancao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>implementação</string>
+		<key>shortcut</key>
+		<string>implementacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>implementações</string>
+		<key>shortcut</key>
+		<string>implementacoes</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2107,12 +2167,6 @@
 		<string>noção</string>
 		<key>shortcut</key>
 		<string>nocao</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>nós</string>
-		<key>shortcut</key>
-		<string>nos</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3127,6 +3181,24 @@
 		<string>seu</string>
 		<key>shortcut</key>
 		<string>sue</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>sujeira</string>
+		<key>shortcut</key>
+		<string>sugeira</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>sujeiras</string>
+		<key>shortcut</key>
+		<string>sugeiras</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>sujeira</string>
+		<key>shortcut</key>
+		<string>sugera</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
