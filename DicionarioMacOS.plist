@@ -82,6 +82,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>agradável</string>
+		<key>shortcut</key>
+		<string>agradavel</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>agradeço</string>
 		<key>shortcut</key>
 		<string>agradeco</string>
@@ -133,6 +139,12 @@
 		<string>Aliexpress</string>
 		<key>shortcut</key>
 		<string>aliexpress</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>alimentícios</string>
+		<key>shortcut</key>
+		<string>alimenticios</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -403,6 +415,12 @@
 		<string>avaliado</string>
 		<key>shortcut</key>
 		<string>avalido</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>bancário</string>
+		<key>shortcut</key>
+		<string>bancario</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1012,6 +1030,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>desperdício</string>
+		<key>shortcut</key>
+		<string>desperdicio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>destituição</string>
 		<key>shortcut</key>
 		<string>destituicao</string>
@@ -1414,6 +1438,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>excelência</string>
+		<key>shortcut</key>
+		<string>excelencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>exceção</string>
 		<key>shortcut</key>
 		<string>excessao</string>
@@ -1531,6 +1561,12 @@
 		<string>família</string>
 		<key>shortcut</key>
 		<string>familia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>faríamos</string>
+		<key>shortcut</key>
+		<string>fariamos</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2047,6 +2083,12 @@
 		<string>jurídica</string>
 		<key>shortcut</key>
 		<string>júridica</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>jurídico</string>
+		<key>shortcut</key>
+		<string>juridico</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2776,6 +2818,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>plástico</string>
+		<key>shortcut</key>
+		<string>plastico</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>pouco</string>
 		<key>shortcut</key>
 		<string>pocuo</string>
@@ -2953,6 +3001,18 @@
 		<string>preguiçoso</string>
 		<key>shortcut</key>
 		<string>preguicoso</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>prejuízo</string>
+		<key>shortcut</key>
+		<string>prejuizo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>prejuízos</string>
+		<key>shortcut</key>
+		<string>prejuizos</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3751,6 +3811,12 @@
 		<string>usuário</string>
 		<key>shortcut</key>
 		<string>usuario</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>usuário</string>
+		<key>shortcut</key>
+		<string>ususario</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
