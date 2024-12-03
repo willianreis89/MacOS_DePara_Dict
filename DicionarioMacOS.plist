@@ -64,6 +64,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>acima</string>
+		<key>shortcut</key>
+		<string>acim</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ações</string>
 		<key>shortcut</key>
 		<string>acoes</string>
@@ -445,6 +451,18 @@
 		<string>áreas</string>
 		<key>shortcut</key>
 		<string>areas</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>armário</string>
+		<key>shortcut</key>
+		<string>armario</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>armários</string>
+		<key>shortcut</key>
+		<string>armarios</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1768,6 +1786,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>escuta</string>
+		<key>shortcut</key>
+		<string>escusta</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>estou</string>
 		<key>shortcut</key>
 		<string>esotu</string>
@@ -2032,6 +2056,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>fabricação</string>
+		<key>shortcut</key>
+		<string>fabricacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>fácil</string>
 		<key>shortcut</key>
 		<string>facil</string>
@@ -2071,6 +2101,12 @@
 		<string>faríamos</string>
 		<key>shortcut</key>
 		<string>fariamos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>favorável</string>
+		<key>shortcut</key>
+		<string>favoravel</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2632,6 +2668,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>instituição</string>
+		<key>shortcut</key>
+		<string>instituiçõa</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>instruído</string>
 		<key>shortcut</key>
 		<string>instruido</string>
@@ -2770,6 +2812,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>kevlar</string>
+		<key>shortcut</key>
+		<string>kevler</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>klipper</string>
 		<key>shortcut</key>
 		<string>kliper</string>
@@ -2779,6 +2827,12 @@
 		<string>lá</string>
 		<key>shortcut</key>
 		<string>la</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>laxante</string>
+		<key>shortcut</key>
+		<string>lachante</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3286,6 +3340,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>nossa</string>
+		<key>shortcut</key>
+		<string>noss</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>notificação</string>
 		<key>shortcut</key>
 		<string>notificacao</string>
@@ -3688,6 +3748,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>persistência</string>
+		<key>shortcut</key>
+		<string>persistencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>péssimas</string>
 		<key>shortcut</key>
 		<string>pessimas</string>
@@ -3781,6 +3847,12 @@
 		<string>porém</string>
 		<key>shortcut</key>
 		<string>porem</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>purpurina</string>
+		<key>shortcut</key>
+		<string>porpurina</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4069,6 +4141,12 @@
 		<string>próprio</string>
 		<key>shortcut</key>
 		<string>proprio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>próprios</string>
+		<key>shortcut</key>
+		<string>proprios</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
