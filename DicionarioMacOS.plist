@@ -64,6 +64,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>achar</string>
+		<key>shortcut</key>
+		<string>achara</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>acima</string>
 		<key>shortcut</key>
 		<string>acim</string>
@@ -568,6 +574,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>aqui</string>
+		<key>shortcut</key>
+		<string>auqi</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ausência</string>
 		<key>shortcut</key>
 		<string>ausencia</string>
@@ -607,6 +619,12 @@
 		<string>bancário</string>
 		<key>shortcut</key>
 		<string>bancario</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>básica</string>
+		<key>shortcut</key>
+		<string>basica</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -679,6 +697,12 @@
 		<string>cabíveis</string>
 		<key>shortcut</key>
 		<string>cabiveis</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cachecol</string>
+		<key>shortcut</key>
+		<string>cachicol</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -799,6 +823,12 @@
 		<string>catálogo</string>
 		<key>shortcut</key>
 		<string>catalogo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cachecol</string>
+		<key>shortcut</key>
+		<string>caxicol</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1228,6 +1258,24 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>cuspe</string>
+		<key>shortcut</key>
+		<string>cospe</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cuspir</string>
+		<key>shortcut</key>
+		<string>cospir</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cuspiu</string>
+		<key>shortcut</key>
+		<string>cospiu</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>crachá</string>
 		<key>shortcut</key>
 		<string>cracha</string>
@@ -1357,6 +1405,12 @@
 		<string>depois</string>
 		<key>shortcut</key>
 		<string>deposi</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>desconfortável</string>
+		<key>shortcut</key>
+		<string>desconfortavel</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1756,6 +1810,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>então</string>
+		<key>shortcut</key>
+		<string>entõa</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>entregáveis</string>
 		<key>shortcut</key>
 		<string>entregaveis</string>
@@ -2140,6 +2200,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>finalização</string>
+		<key>shortcut</key>
+		<string>finalizaçõa</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>física</string>
 		<key>shortcut</key>
 		<string>fisica</string>
@@ -2302,6 +2368,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>cuspir</string>
+		<key>shortcut</key>
+		<string>gospir</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cuspiu</string>
+		<key>shortcut</key>
+		<string>gospiu</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>gostaríamos</string>
 		<key>shortcut</key>
 		<string>gostariamos</string>
@@ -2329,6 +2407,12 @@
 		<string>gravação</string>
 		<key>shortcut</key>
 		<string>gravacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cuspe</string>
+		<key>shortcut</key>
+		<string>guspe</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2413,6 +2497,12 @@
 		<string>homogêneo</string>
 		<key>shortcut</key>
 		<string>homogenio</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>homologação</string>
+		<key>shortcut</key>
+		<string>homologaçõa</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2653,6 +2743,12 @@
 		<string>informática</string>
 		<key>shortcut</key>
 		<string>informatica</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>injeção</string>
+		<key>shortcut</key>
+		<string>ingeção</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3112,6 +3208,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>mérito</string>
+		<key>shortcut</key>
+		<string>merito</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>mês</string>
 		<key>shortcut</key>
 		<string>mes</string>
@@ -3217,6 +3319,12 @@
 		<string>multi-cloud</string>
 		<key>shortcut</key>
 		<string>multicloud</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>multimédia</string>
+		<key>shortcut</key>
+		<string>multimedia</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3880,6 +3988,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>pois</string>
+		<key>shortcut</key>
+		<string>posi</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>posição</string>
 		<key>shortcut</key>
 		<string>posicao</string>
@@ -3967,6 +4081,12 @@
 		<string>precisaríamos</string>
 		<key>shortcut</key>
 		<string>precisariamos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>precisávamos</string>
+		<key>shortcut</key>
+		<string>precisavamos</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -5018,6 +5138,12 @@
 		<string>tomografia</string>
 		<key>shortcut</key>
 		<string>tumografia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>túnel</string>
+		<key>shortcut</key>
+		<string>tunel</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
