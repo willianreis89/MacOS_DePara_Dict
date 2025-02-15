@@ -1036,6 +1036,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>cômodo</string>
+		<key>shortcut</key>
+		<string>comodo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>cômodos</string>
+		<key>shortcut</key>
+		<string>comodos</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>companhia</string>
 		<key>shortcut</key>
 		<string>compania</string>
@@ -1243,6 +1255,12 @@
 		<string>conveniência</string>
 		<key>shortcut</key>
 		<string>conveniencia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>convivência</string>
+		<key>shortcut</key>
+		<string>convivencia</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2314,6 +2332,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>funcionalidade</string>
+		<key>shortcut</key>
+		<string>funcinonalidade</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>funcionalidades</string>
+		<key>shortcut</key>
+		<string>funcinonalidades</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>funcionário</string>
 		<key>shortcut</key>
 		<string>funcionario</string>
@@ -2476,6 +2506,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>hipoalergênico</string>
+		<key>shortcut</key>
+		<string>hipoalergenico</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>hipótese</string>
 		<key>shortcut</key>
 		<string>hipoteze</string>
@@ -2524,9 +2560,33 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>umidade</string>
+		<key>shortcut</key>
+		<string>humidade</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>úmido</string>
+		<key>shortcut</key>
+		<string>humido</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ícone</string>
 		<key>shortcut</key>
 		<string>icone</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ícone</string>
+		<key>shortcut</key>
+		<string>ícone</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ícones</string>
+		<key>shortcut</key>
+		<string>icones</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2677,6 +2737,12 @@
 		<string>indenização</string>
 		<key>shortcut</key>
 		<string>indenizacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>indiscriminado</string>
+		<key>shortcut</key>
+		<string>indescriminado</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3058,6 +3124,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>mais</string>
+		<key>shortcut</key>
+		<string>maid</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>maiúscula</string>
 		<key>shortcut</key>
 		<string>maiuscula</string>
@@ -3151,6 +3223,12 @@
 		<string>máquina</string>
 		<key>shortcut</key>
 		<string>maquina</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>maria</string>
+		<key>shortcut</key>
+		<string>maria</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3808,6 +3886,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>percepção</string>
+		<key>shortcut</key>
+		<string>percepição</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>perceptível</string>
 		<key>shortcut</key>
 		<string>perceptivel</string>
@@ -3904,6 +3988,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>pneumonia</string>
+		<key>shortcut</key>
+		<string>pneomonia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>pneumonia</string>
+		<key>shortcut</key>
+		<string>pnomonia</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>pouco</string>
 		<key>shortcut</key>
 		<string>pocuo</string>
@@ -3970,6 +4066,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>portáteis</string>
+		<key>shortcut</key>
+		<string>portateis</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>portátil</string>
+		<key>shortcut</key>
+		<string>portatil</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>portfólio</string>
 		<key>shortcut</key>
 		<string>portfolio</string>
@@ -4015,6 +4123,12 @@
 		<string>possível</string>
 		<key>shortcut</key>
 		<string>possivel</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>possível</string>
+		<key>shortcut</key>
+		<string>possível</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4367,6 +4481,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>quais</string>
+		<key>shortcut</key>
+		<string>quasi</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>questionamento</string>
 		<key>shortcut</key>
 		<string>quesitonamento</string>
@@ -4553,6 +4673,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>resposta</string>
+		<key>shortcut</key>
+		<string>reposta</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>república</string>
 		<key>shortcut</key>
 		<string>republica</string>
@@ -4712,6 +4838,12 @@
 		<string>sensação</string>
 		<key>shortcut</key>
 		<string>sensacao</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>sequência</string>
+		<key>shortcut</key>
+		<string>sequencia</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4937,6 +5069,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>squad</string>
+		<key>shortcut</key>
+		<string>suqad</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>squads</string>
+		<key>shortcut</key>
+		<string>suqads</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>tá</string>
 		<key>shortcut</key>
 		<string>ta</string>
@@ -5030,6 +5174,12 @@
 		<string>thanks</string>
 		<key>shortcut</key>
 		<string>thnaks</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>todos</string>
+		<key>shortcut</key>
+		<string>tidos</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -5132,6 +5282,12 @@
 		<string>três</string>
 		<key>shortcut</key>
 		<string>tres</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>tudo</string>
+		<key>shortcut</key>
+		<string>tudos</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
