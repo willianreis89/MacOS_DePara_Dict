@@ -760,6 +760,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>captação</string>
+		<key>shortcut</key>
+		<string>capitação</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>capítulo</string>
 		<key>shortcut</key>
 		<string>capitulo</string>
@@ -1738,6 +1744,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>bem</string>
+		<key>shortcut</key>
+		<string>ebm</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>econômica</string>
 		<key>shortcut</key>
 		<string>economica</string>
@@ -2587,6 +2599,12 @@
 		<string>ícones</string>
 		<key>shortcut</key>
 		<string>icones</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ideal</string>
+		<key>shortcut</key>
+		<string>ideial</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
